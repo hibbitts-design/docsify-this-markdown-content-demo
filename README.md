@@ -2,31 +2,6 @@
 
 This is a sample Markdown file for display by Docsify-This.
 
-## Markdown Javascript Code Block 
-```javascript
-<script>
-  alert('Hello, World!');
-</script>
-```
-
-## Markdown CSS Code Block 
-```css
-body {
-  font-family: sans-serif;
-}
-
-h1 {
-  color: darkred;
-}
-```
-
-## Markdown Kotlin Code Block 
-```kotlin
-fun main(args: Array<String>) {
-    println("Hello, World!")
-}
-```
-
 ## Markdown Image
 ![Octocat](https://octodex.github.com/images/original.png)
 
@@ -57,9 +32,6 @@ fun main(args: Array<String>) {
 ## Markdown Button (Styled with custom CSS Class `mybutton`)
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=mybutton')
 
-## Markdown Footnote
-Here is a simple footnote[^1]. With some additional text after it.
-
 ## HTML iFrame (YouTube)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lJIrF4YjHfQ">
 </iframe>
@@ -79,5 +51,3 @@ Here is a simple footnote[^1]. With some additional text after it.
 
 ## HTML Embed (using Embed.ly) 
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://blog.prototypr.io/defining-usability-e7bf42e8abd0">Defining usability</a>
-
-[^1]: My reference.
